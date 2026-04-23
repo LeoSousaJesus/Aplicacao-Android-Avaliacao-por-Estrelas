@@ -1,4 +1,5 @@
 // Arquivo principal
+// Aqui deve estar o código com a lógica de programação da aplicação
 package com.example.aula15;
 
 import android.content.Intent;
