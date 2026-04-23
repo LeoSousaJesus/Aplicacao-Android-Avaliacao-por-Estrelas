@@ -1,3 +1,4 @@
+// Arquivo principal
 package com.example.aula15;
 
 import android.content.Intent;
